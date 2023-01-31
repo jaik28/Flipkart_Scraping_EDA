@@ -4,14 +4,14 @@ In this project I am scrapping the data of different laptops and performing expl
 
 
 
-## Flipkart Data:
+## Flipkart Web Scraping:
 
 This program extract the data and stores the data in a csv file
 
-## Flipkart Preparation:
+## Data Preparation:
 
 In this notebook, we are performing extensive data cleaning and data preparation
 
-## Flipkart EDA:
+## Flipkart_EDA:
 
 In this notebook, we are performing an Exploratory Data Analysis (EDA)
